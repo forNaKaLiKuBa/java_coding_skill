@@ -8,7 +8,7 @@ import java.util.*;
 //매직 넘버를 상수로 대체
 public class Study2 {
 
-    static final String SAMPLE_MERCHANT = "";
+    static final String SAMPLE_MERCHANT = " ";
     
     public String selectMerchant(String name)
     {
